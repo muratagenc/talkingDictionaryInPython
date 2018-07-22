@@ -12,4 +12,4 @@ this version gets definitions from Meriam Webster dictionary web site and does n
 
 I may work on it later to save definitions too.
 
-data.zip includes all the words I have and will be updated frequently.
+data.zip includes all the word mp3 files I have and will be updated frequently.
