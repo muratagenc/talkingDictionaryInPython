@@ -1,7 +1,10 @@
 # talkingDictionaryInPython
 created for Ubuntu
+
 a Python script that downloads mp3 file of an English word, prints its meaning on terminal
+
 Requires Internet connection
+
 I created this small app to query words while reading PDF text-books on my desktop computer.
 
 It downloads mp3 files and stores in ./data folder. If the file is already in, it doesn't use the Internet for it.
