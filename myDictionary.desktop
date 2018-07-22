@@ -1,0 +1,13 @@
+#!/usr/bin/env 
+[Desktop Entry]
+Name=MuratGenc
+Terminal=true
+Type=Application
+Comment=Terminal Desktop Shortcut
+Exec=/media/delikasif/OneTerra/Documents/Kendim/kendi_yazdigim_programlar/play_mp3_words_from_cli/play.py
+#TryExec=python3 /media/delikasif/OneTerra/Documents/Kendim/kendi_yazdigim_programlar/play_mp3_words_from_cli/play.py
+Icon=/media/delikasif/OneTerra/Documents/Kendim/kendi_yazdigim_programlar/play_mp3_words_from_cli/dictionary.jpg
+Path=/media/delikasif/OneTerra/Documents/Kendim/kendi_yazdigim_programlar/play_mp3_words_from_cli/
+Categories=Utility;Application;
+
+
