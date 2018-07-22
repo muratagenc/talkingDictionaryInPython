@@ -1,5 +1,5 @@
 # talkingDictionaryInPython
-created for Ubuntu
+created for Ubuntu but obviously works under any O.S. with Python 3 installed.
 
 a Python script that downloads mp3 file of an English word, prints its meaning on terminal
 
