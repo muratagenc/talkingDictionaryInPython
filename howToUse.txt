@@ -1,0 +1,8 @@
+You must have Python3 installed on your system
+Simply run: python3 play.py
+type a word in all small letters and hit enter
+you should hear the word pronounced, the corresponding mp3 file should be played
+and a description of the word should be given on terminal screen.
+
+any questions: mgenc at pace dot edu
+
