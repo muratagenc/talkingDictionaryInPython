@@ -1,0 +1,1 @@
+ a device that lights up and displays information when electricity passes through it
