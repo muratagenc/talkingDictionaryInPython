@@ -1,1 +1,1 @@
- something you can drink <span class="intro-colon">:
+ something you can drink 

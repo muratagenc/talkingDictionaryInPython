@@ -1,1 +1,1 @@
- the number 1,000,000,000 <span class="intro-colon">: a very large amount or number the number 1,000,000,000,000
+ the number 1,000,000,000  a very large amount or number the number 1,000,000,000,000
